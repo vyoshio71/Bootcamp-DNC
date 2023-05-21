@@ -1,6 +1,6 @@
 # Bootcamp DNC
 
-# Linguagem Utilizadas
+# Ferramentas Utilizadas
 
 • HTML5 
 • CSS3
